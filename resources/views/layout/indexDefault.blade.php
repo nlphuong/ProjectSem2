@@ -31,7 +31,7 @@
    <body class="@yield('body-class')">
 
       @include('common.loader')
-      @include('common.header')
+      @include('common.headerIndex')
 
          @yield('main')
          

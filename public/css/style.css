@@ -1887,7 +1887,17 @@ margin-top: 90px;
         font-size: 20px;
         color: black;
     }
+    
+/**footer shortlink**/
 
+.footer-shortlink li a{
+    color: #ffffff;
+}
+
+.footer-shortlink li:hover a{
+    color: #b32137;
+}
+ 
 
 
 
